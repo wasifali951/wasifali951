@@ -43,6 +43,7 @@ A passionate BSCS student exploring AI, Operating Systems, Databases, Parallel C
 ### **Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### **Tools**
