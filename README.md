@@ -15,7 +15,7 @@ A passionate BSCS student exploring AI, Operating Systems, Databases, Parallel C
 - 🧮 Learning Graph Theory & Algorithms  
 - 🌐 Web development with Tailwind + Streamlit  
 - 🧠 Interested in automation & digital marketing  
-- 🐄 Running a dairy business along with tech studies  
+- 🧪 Exploring Machine Learning & AI projects  
 - 🎯 Always learning, building & improving  
 
 ---
