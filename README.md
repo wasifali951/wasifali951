@@ -92,8 +92,8 @@ Performance evaluation + parallelization projects.
 
 ## 🧭 Connect With Me
 <p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" />https://www.instagram.com/wasifali95/</a>
+  <a href="mailto:"><img src="https://skillicons.dev/icons?i=gmail" />wasifali9500@gmail.com</a>
 </p>
 
 ---
