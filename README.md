@@ -92,11 +92,17 @@ Performance evaluation + parallelization projects.
 
 ## 🧭 Connect With Me
 <p>
-  <a href="https://www.instagram.com/wasifali95/" target="_blank">
+  <a href="https://www.instagram.com/wasifali95" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:wasifali9500@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/wasif-ali-55069336b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/wasifali951" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
 
